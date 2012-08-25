@@ -1,8 +1,8 @@
 <resources>
 
     <string name="app_name">Pitch Detect</string>
-    <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">Pitch Detect</string>
+    <string name="mainactivity_waiting">Waiting to detect pitch</string>
 
 </resources>
